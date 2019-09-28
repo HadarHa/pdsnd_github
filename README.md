@@ -1,7 +1,7 @@
 ### Date created
 * 09/28/2019
 
-### Explor US Bikeshare data- GitHub Project
+### US Bikeshare data- GitHub Project
 Replace the Project Title
 
 ### Description
@@ -17,3 +17,4 @@ Replace the Project Title
 ### Credits
 * Big THANK YOU to Udacity lecturer, Richard Kalehoff , for a fun and interesting course
 * Use of Udacity repository- https://github.com/HadarHa/pdsnd_github.git
+* Udacity course Programming for Data Science with Python Nanodegree Program
