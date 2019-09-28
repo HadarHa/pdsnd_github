@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+* 09/28/2019
 
-### Project Title
+### US Bikeshare data GitHub Project
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+* Uses Python to understand US bikeshare data.
+* Calculates statistics and builds interactive env for user
+* Explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
 
 ### Files used
-Include the files used
+* washington.csv
+* new_york_city.csv
+* chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* Big THANK YOU to Udacity lecturer, Richard Kalehoff , for a fun and interesting course
+* Use of Udacity repository- https://github.com/HadarHa/pdsnd_github.git
+* Udacity course Programming for Data Science with Python Nanodegree Program
