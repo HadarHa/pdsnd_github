@@ -16,8 +16,8 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
-    city= input('Would you like to see data for Chicago, New York, or Washington? ')
-    city= city.lower()
+    city= input('Would you like to see data for Chicago, New York, or Washington? ').lower()
+    
     while True:
         if (city == 'new york' or city == 'washington' or city == 'chicago'):
             break
