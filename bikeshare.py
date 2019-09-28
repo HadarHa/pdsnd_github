@@ -17,12 +17,12 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     city= input('Would you like to see data for Chicago, New York, or Washington? ').lower()
-    
+
     while True:
         if (city == 'new york' or city == 'washington' or city == 'chicago'):
             break
         else:
-            city= input('Please try again- Would you like to see data for Chicago, New York, or Washington? ')
+            city= input('Please try again- choose either Chicago, New York, or Washington? ')
             city= city.lower()
             continue
     month= input('Please enter the name of the month to filter by, or enter \"all\" to apply no month filter: ')
