@@ -1,7 +1,7 @@
 ### Date created
 * 09/28/2019
 
-### US Bikeshare data- GitHub Project
+### US Bikeshare data GitHub Project
 Replace the Project Title
 
 ### Description
